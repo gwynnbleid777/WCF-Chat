@@ -1,0 +1,5 @@
+D:\projekts\WCF1\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\projekts\WCF1\Server\bin\Debug\Server.dll
+D:\projekts\WCF1\Server\bin\Debug\Server.pdb
+D:\projekts\WCF1\Server\obj\Debug\Server.dll
+D:\projekts\WCF1\Server\obj\Debug\Server.pdb

@@ -1,0 +1,6 @@
+D:\projekts\WCF1\WCF1\bin\Debug\WCF1.exe.config
+D:\projekts\WCF1\WCF1\obj\Debug\WCF1.csprojResolveAssemblyReference.cache
+D:\projekts\WCF1\WCF1\bin\Debug\WCF1.exe
+D:\projekts\WCF1\WCF1\bin\Debug\WCF1.pdb
+D:\projekts\WCF1\WCF1\obj\Debug\WCF1.exe
+D:\projekts\WCF1\WCF1\obj\Debug\WCF1.pdb
